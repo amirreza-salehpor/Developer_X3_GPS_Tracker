@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: Z:\A.Salehpoor\Amirreza\Projects\X3.Dev. RF\Shematic & PCB\X3_Developer_RF_V7.4.2_1402.06.07\Outputs For X3_Developer_RF_V7.4.2_Nov2023\X3_Developer_RF_Sheet_V7.4.2_Sep2023.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

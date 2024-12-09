@@ -1,0 +1,15 @@
+Source PCB Design X3_Developer_RF_Sheet_V7.4.2_Sep2023.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[X3_Developer_RF_Sheet_V7.4.2_Sep2023-Plated.TXT]
+   Generated File[X3_Developer_RF_Sheet_V7.4.2_Sep2023.DRL]
+   Generated File[X3_Developer_RF_Sheet_V7.4.2_Sep2023.LDP]
+   Generated File[X3_Developer_RF_Sheet_V7.4.2_Sep2023.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:29:20 AM On 8/29/2023
